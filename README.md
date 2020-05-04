@@ -1,27 +1,5 @@
 # Image-Captioning-Computer-Vision-and-NLP-
 Image Recognition Semantic Alignments for Image Captioning using Computer Vision and Natural Language Processing.
-Table of Contents
-Abstract…………………………………………………………………………………………………………….3
-Introduction………………………………………………………………………………………………………4
-Related Work…………………………………………………………………………………………………… 4
-Objectives………………………………………………………………………………………………………… 5
-Selected Dataset………………………………………………………………………………………………. 6
-Proposed System………………………………………………………………...................................7
-Proposed development platforms………………………………………………………………………9
-Software Development Platform……………………………………………………………10
-Hardware Development Platform………………………………………....................10
-Progress Report………………………………………………………………………………………………10
-Summary…………………………………………………………………………………………………………10
-Accomplishments ……………………………………………………………………………………………10
-Step by Step Procedure……………………………………………………………………………………12
-Image Captioning …………………………………………………………………………………14
-         Convolution Layer………………………………………………………………....................15
-         Pooling ………………………………………………………………………………....................16
-        Flattening……………………………………………………………………………....................16
-       Dense Layer…………………………………………………………………………....................17
-Appendix A …………………………………………………………………………………………………… 18
-References ……………………………………………………………………………………………………. 21
-
 
 
 Introduction
@@ -37,10 +15,10 @@ Captioning represents a natural way of showing that the algorithm understands a 
 Objectives
 The main objective of this project is that to train the model with the unstructured data with the image dataset we have. And then caption the images using the natural language processing techniques and detect the objects within the image using the computer vision. Putting all the objectives and goals of this project together 
 Generating textual descriptions for the images and then combine the breakthroughs from computer vision and natural language processing.
-•	Implementing a model which classifies the image and then describe a image which involves the feature of generating the textual descriptions of the contents of the image.
-•	Generating the textual descriptions for specific regions of the images in the dataset – annotating the images.
-•	Researching and exploring on different algorithms and ways to fulfil and furnish the goals we are aiming at.
-•	Implementing a neural network models for captioning through feature extraction and language modelling techniques. 
-•	Create visualizations for the results we retrieved where the image along with a caption is depicted by the model. 
+Implementing a model which classifies the image and then describe a image which involves the feature of generating the textual descriptions of the contents of the image.
+Generating the textual descriptions for specific regions of the images in the dataset – annotating the images.
+Researching and exploring on different algorithms and ways to fulfil and furnish the goals we are aiming at.
+Implementing a neural network models for captioning through feature extraction and language modelling techniques. 
+Create visualizations for the results we retrieved where the image along with a caption is depicted by the model. 
 The above are all the objectives which are aimed for our project. 
 
